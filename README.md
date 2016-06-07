@@ -6,11 +6,11 @@
 ## 使用方法
 #### 1.请在info.plist文件中 将QQ(`mqq`字段)添加到白名单
 *    1.设置方法:在info.plist添加`LSApplicationQueriesSchemes`字段 类型`Array`<br>
-     2.在此Array中添加一个 item 值设为:`mqq`
-#### 2.用来接收临时消息的QQ号需开通 QQ推广功能 ,不然接收消息会不成功
+     2.在此Array中添加一个 item 值设为:`mqq` <br>
+#### 2.用来接收临时消息的QQ号需开通 QQ推广功能 ,不然接收消息会不成功<br>
 *    1.开通方式:打开QQ推广网址http://shang.qq.com并用QQ登录<br>
      2.点击顶部导航栏:推广工具<br>
-     3.在弹出菜单中点击'立即免费开通'即可
+     3.在弹出菜单中点击'立即免费开通'即可<br>
 #### 3.导入XHChatQQ.h 头文件,调用下面方法
 ```objc
     //是否安装QQ
