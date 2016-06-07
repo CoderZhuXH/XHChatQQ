@@ -2,7 +2,7 @@
 * 一行代码调用QQ客户端,发起临时会话.
 
 ## 效果
-![image]()
+![image](http://c.hiphotos.baidu.com/image/pic/item/1b4c510fd9f9d72a7ab2082fdc2a2834349bbb29.jpg)
 ## 使用方法
 #### 1.请在info.plist文件中 将QQ(`mqq`字段)添加到白名单
 *    1.设置方法:在info.plist添加`LSApplicationQueriesSchemes`字段 类型`Array`<br>
