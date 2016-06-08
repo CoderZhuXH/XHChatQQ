@@ -40,3 +40,6 @@
 
 ##  许可证
 XHChatQQ 使用 MIT 许可证，详情见 LICENSE 文件
+
+##  详细接入方法可见 我简书 上的一篇文章
+文章地址 http://www.jianshu.com/p/ac4981b634c2
