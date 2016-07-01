@@ -1,6 +1,8 @@
 ﻿# XHChatQQ
 * 一行代码调用QQ客户端,发起临时会话.
 
+###技术交流群(群号:537476189)
+
 ## 效果
 ![image](http://a.hiphotos.baidu.com/image/pic/item/d6ca7bcb0a46f21fb66b5f61fe246b600c33aea0.jpg)
 ## 使用方法
