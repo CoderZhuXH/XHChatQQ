@@ -4,10 +4,13 @@
 //
 //  Created by xiaohui on 16/6/7.
 //  Copyright © 2016年 qiantou. All rights reserved.
-//  https://github.com/CoderZhuXH/XHChatQQ
+//  代码地址:https://github.com/CoderZhuXH/XHChatQQ
 
 #import "XHChatQQ.h"
 
+@interface XHChatQQ()
+
+@end
 
 @implementation XHChatQQ
 
@@ -18,7 +21,8 @@
 +(void)chatWithQQ:(NSString *)QQ
 {
     NSString *url = [NSString stringWithFormat:@"mqq://im/chat?chat_type=wpa&uin=%@&version=1&src_type=web",QQ];
-    
+
     [[UIApplication sharedApplication] openURL:[NSURL URLWithString:url]];
 }
+
 @end
